@@ -2,7 +2,7 @@
 
 ### **🚀 Project Goal: The Smart Way to Earn Rewards**
 
-This Python script is designed to automate Microsoft Rewards by leveraging a clever approach. A single PC can manage multiple accounts using separate Chrome user profiles, making each session appear as a unique user. My solution goes beyond simple automation—it mimics human behavior with realistic delays and actions to avoid detection and potential account bans. This is a project that showcases my skills in web automation, security thinking, and robust tool-building.
+This Python script is designed to automate the process of earning Microsoft Rewards points by leveraging the fact that a single PC can manage multiple accounts through separate Chrome user profiles. This project focuses on performing realistic web searches to mimic human behavior, thereby avoiding detection and potential account bans. It's a robust solution that showcases skills in web automation, data management, and creating reliable tools that handle real-world challenges.
 
 ### **🧠 How It Works: A Realistic Automation Flow**
 
@@ -21,22 +21,22 @@ Here’s a step-by-step visual guide to the script's process.
 **3\. Human-Like Execution**
 
 * **Navigate**: For each profile, the script opens a new browser window.  
-* **Realistic Search**: It performs searches using these advanced techniques:  
+* **Realistic Search**: It performs searches using these techniques:  
   * **Time Lag**: It adds a random delay between each search to simulate a person's natural pause.  
   * **Scroll Simulation**: It scrolls down the page to mimic a user looking at the results.
 
 **4\. The End**
 
-* **Cycle Complete**: After finishing all the searches for one account, it closes the browser and moves on to the next one.
+* **Cycle Complete**: After finishing all the searches for one account, it closes the chrome profile 1 and movees to chrome file 2 (i.e.) moves on to the next one.
 
 ### **🌟 Core Strengths**
 
 | Feature | Why It's Impressive |
 | :---- | :---- |
-| ✅ **Multi-Account Support** | Demonstrates experience managing complex workflows across multiple user sessions. |
-| ✅ **Realistic User Simulation** | Highlights an understanding of anti-bot measures and the ability to build robust, undetectable tools. |
-| ✅ **Data-Driven & Scalable** | Shows how to manage content (search queries) separately from the code for easy scaling and updates. |
-| ✅ **Automated Process Management** | Proves attention to detail and a focus on building a reliable, self-sufficient tool that doesn't rely on manual intervention. |
+| ✅ **Multi-Account Support** | Manages workflows across multiple user sessions. |
+| ✅ **Realistic User Simulation** | Use of anti-bot measures, robust and almost undetectable  |
+| ✅ **Data-Driven & Scalable** | Manage search queries separately from the code for easy scaling and updates. |
+| ✅ **Automated Process Management** | Self-sufficient tool that doesn't rely on manual intervention. |
 | ✅ **Strong Error Handling** | The script is designed to be resilient and won't crash when faced with unexpected web page layouts. |
 
 ### **⚙️ Getting Started**
