@@ -48,7 +48,7 @@ Here’s a step-by-step visual guide to the script's process.
 3. **Update Paths:** In MS_MONEY.py, you'll need to set the file paths for your ChromeDriver and Chrome user profiles.  
 4. **Add Your Data:** Put your search terms in the Book1.xlsx file.  
 5. **Run the Script:** Open your terminal in the project folder and run:  
-   python zhel.py
+   python MS_MONEY.py
 
 ### **📂 Project Files**
 
