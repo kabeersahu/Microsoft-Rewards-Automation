@@ -45,13 +45,13 @@ Here’s a step-by-step visual guide to the script's process.
 2. **Install Dependencies:** Run this command in your terminal to get everything you need:  
    pip install selenium openpyxl psutil
 
-3. **Update Paths:** In zhel.py, you'll need to set the file paths for your ChromeDriver and Chrome user profiles.  
+3. **Update Paths:** In MS_MONEY.py, you'll need to set the file paths for your ChromeDriver and Chrome user profiles.  
 4. **Add Your Data:** Put your search terms in the Book1.xlsx file.  
 5. **Run the Script:** Open your terminal in the project folder and run:  
    python zhel.py
 
 ### **📂 Project Files**
 
-* zhel.py: The core automation script.  
+* MS_MONEY.py: The core automation script.  
 * Book1.xlsx: The Excel file with your search queries.  
 * New Microsoft Word Document.docx: The document containing the email and password lists for the different accounts.
